@@ -5,3 +5,5 @@ Modificación de archivo para ejericio
 modificación para realizar el merge, listo
 
 que once dude este cambio tendra un impacto mayor sobre el algoritomo espacial
+
+Mas modificaicones sobre este archivo
